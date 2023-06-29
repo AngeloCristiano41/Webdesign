@@ -1,0 +1,52 @@
+#top{
+    background-color: #5F9EA0;
+    width: 100%;
+    height: 130px;
+}
+#tabel{
+    width: 100%;
+    height: 350px;
+    border-color: #000000;
+    border: 1px solid;
+}
+tr{
+    border: 1px solid;
+    border-color: #000000;
+}
+td{
+    border: 1px solid;
+    border-color: #000000;
+}
+#foot{
+    background-color: #5F9EA0;
+    width: 100%;
+    height: 130px;
+}
+#een{
+    background-color: yellowgreen;
+}
+#twee{
+    background-color: cornflowerblue;
+}
+#drie{
+    background-color: burlywood;
+}
+#vier{
+    background-color: coral;
+}
+#vijf{
+    background-color:darkslategrey;
+}
+#zes{
+    background-color:goldenrod;
+}
+#zeven{
+    background-color:indianred;
+}
+#acht{
+    background-color:mediumslateblue;
+}
+#afb{
+    width: 200px;
+    height: 200px;
+}
